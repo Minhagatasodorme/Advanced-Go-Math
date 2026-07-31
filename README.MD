@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# Advanced Go Mathgit add README.MD
-=======
 # Advanced Go Math
->>>>>>> 4c99de69ff2d419bc0a0e52633ca9a9396c945a2
+
 
 Is a initial beginner project that implements simple mathematicals formulas in `Go`.
 
