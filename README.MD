@@ -1,14 +1,11 @@
 # Advanced Go Math
-***
 
 Is a initial beginner project that implements simple mathematicals formulas in `Go`.
 
-***
 ## Prerequisites
 
 > Go 1.18 or newer
 
-***
 ## Installation
 ```bash
 go get github.com/Minhagatasodorme/Advanced-Go-Math
@@ -40,6 +37,6 @@ func main() {
 ```text
 The roots of this equation is 3.00 and 2.00.
 ```
-***
+
 ## Note
 This is an initial project created to learn more about Go, so it currently includes only one mathematical formula. More updates coming soon!
